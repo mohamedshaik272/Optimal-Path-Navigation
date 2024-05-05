@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f94cea-f91f-4d09-9818-aff21dca367f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/environment_nav.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/environment_nav.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/point_cloud.xyz" beforeDir="false" afterPath="$PROJECT_DIR$/point_cloud.xyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/path.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
